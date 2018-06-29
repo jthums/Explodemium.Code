@@ -1,0 +1,14 @@
+{
+    "name": "Explodemium.Code",
+    "main": "editor.html",
+    "version": "v0.0.1 Alpha",
+    "nodejs": true,
+    "window": {
+        "title": "Explodemium.Code",
+        "width": 1280,
+        "height": 720,
+        "toolbar": false,
+        "position": "center",
+        "icon": "icon.png"
+    }
+}

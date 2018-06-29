@@ -1,0 +1,130 @@
+#input_theme {
+    position: absolute; 
+    top: 0px; 
+    right: 0px;
+    padding-left: 5px;
+    height: 25px; 
+    border: none;
+    background-color: #3a3a3a;
+    color: aliceblue;
+}
+
+#input_filename{
+    position: absolute; 
+    top: 0px; 
+    right: 330px;
+    padding-left: 5px;
+    height: 25px; 
+    border: none;
+    background-color: #3a3a3a;
+    color: aliceblue;
+}
+
+#input_mode{
+    position: absolute; 
+    top: 0px; 
+    right: 165px;
+    padding-left: 5px;
+    height: 25px; 
+    border: none;
+    background-color: #3a3a3a;
+    color: aliceblue;
+}
+
+#save_btn {
+    font-family: sans-serif;
+    position: absolute; 
+    top: 0px; 
+    left: 0px; 
+    border: none; 
+    height: 25px; 
+    background-color: #333333;
+    color: white;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+#save_btn:hover {
+    background-color: #5b5b5b;
+}
+
+#load_btn {
+    font-family: sans-serif;
+    position: absolute; 
+    top: 0px; 
+    left: 45px; 
+    border: none; 
+    height: 25px; 
+    background-color: #333333;
+    color: white;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+#load_btn:hover {
+    background-color: #5b5b5b;
+}
+
+#code_mode {
+    font-family: sans-serif;
+    position: absolute; 
+    top: 0px; 
+    left: 150px; 
+    border: none; 
+    height: 25px; 
+    background-color: #333333;
+    color: white;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+#code_mode:hover {
+    background-color: #5b5b5b;
+}
+
+#save_theme_btn {
+    font-family: sans-serif;
+    position: absolute; 
+    top: 0px; 
+    right: 160px; 
+    border: none; 
+    height: 25px; 
+    background-color: #333333;
+    color: white;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+#save_theme_btn:hover {
+    background-color: #5b5b5b;
+}
+
+#title {
+    font-family: sans-serif;
+    position: absolute; 
+    top: 0px; 
+    right: 555px; 
+    border: none; 
+    height: 25px; 
+    color: white;
+    background: none;
+    font-size: 14px;
+    cursor: default;
+}
+
+#save_filename_btn {
+    font-family: sans-serif;
+    position: absolute; 
+    top: 0px; 
+    right: 440px; 
+    border: none; 
+    height: 25px; 
+    background-color: #333333;
+    color: white;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+#save_filename_btn:hover {
+    background-color: #5b5b5b;
+}
